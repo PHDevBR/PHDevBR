@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ulrich
 - 👀 I’m interested in Go, Dart and Java
-- 🌱 I’m currently learning and developing with Flutter
+- 🌱 I’m currently learning and developing in Java
 - 🇧🇷 
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phdevbr&show_icons=true&theme=darcula&border_radius=25" />
