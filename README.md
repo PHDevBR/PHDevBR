@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ulrich
-- 👀 I’m interested in Go, Dart and Javascript
+- 👀 I’m interested in Go, Dart and Java
 - 🌱 I’m currently learning and developing with Flutter
 - 🇧🇷 
 <div>
